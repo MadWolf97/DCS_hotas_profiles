@@ -370,7 +370,7 @@ local diff = {
 		["d311pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN36",
+					["key"] = "JOY_BTN37",
 				},
 			},
 			["name"] = "Puesta en marcha motor izquierdo",
@@ -379,6 +379,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN39",
+				},
+				[2] = {
+					["key"] = "JOY_BTN38",
 				},
 			},
 			["name"] = "Puesta en marcha motor derecho",
@@ -394,7 +397,7 @@ local diff = {
 		["d314pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN38",
+					["key"] = "JOY_BTN36",
 				},
 			},
 			["name"] = "Apagado motor derecho",
