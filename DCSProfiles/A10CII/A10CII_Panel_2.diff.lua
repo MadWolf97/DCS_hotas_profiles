@@ -16,6 +16,14 @@ local diff = {
 			},
 			["name"] = "Interruptor MASTER a SAFE",
 		},
+		["d1376pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Interruptor MASTER a TRAIN",
+		},
 		["d1377pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -31,6 +39,14 @@ local diff = {
 				},
 			},
 			["name"] = "Interruptor GUN/PAC a SAFE",
+		},
+		["d1379pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Interruptor GUN/PAC a GUNARM",
 		},
 		["d1380pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -58,6 +74,98 @@ local diff = {
 				},
 			},
 			["name"] = "Interruptor TGP - On/Off",
+		},
+		["d1384pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Interruptor ALT SCE a BARO",
+		},
+		["d1385pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "Interruptor ALT SCE a DELTA",
+		},
+		["d1386pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Interruptor ALT SCE a RADAR",
+		},
+		["d1387pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+				[2] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Interruptor HUD MODE - Diurno/Nocturno",
+		},
+		["d1388pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+				[2] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Interruptor HUD MODE - NORM/STBY",
+		},
+		["d1389pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+				[2] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Interruptor CICU On/Off",
+		},
+		["d1390pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+				[2] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Interruptor JTRS - On/Off",
+		},
+		["d1391pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Interruptor IFFCC a ON",
+		},
+		["d1392pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Interruptor IFFCC a TEST",
+		},
+		["d1393pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Interruptor IFFCC a OFF",
 		},
 		["d1560pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -114,6 +222,30 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
+		},
+		["d82pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "Soltar armas",
+		},
+		["d921pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Maneral cortafuegos del motor izquierdo",
+		},
+		["d923pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Maneral cortafuegos del motor derecho",
 		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Centrar visión",

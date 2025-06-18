@@ -25,7 +25,7 @@ local diff = {
 			},
 		},
 		["a2004cdnil"] = {
-			["name"] = "Palancas de gases",
+			["name"] = "Ambas palancas de gases",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
@@ -123,16 +123,19 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN122",
 				},
+				[2] = {
+					["key"] = "JOY_BTN76",
+				},
 			},
-			["name"] = "Flaps : Arriba<>Centro",
+			["name"] = "Flaps: Arriba<>Centro",
 		},
 		["d1049pnilu1569cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN72",
+					["key"] = "JOY_BTN74",
 				},
 			},
-			["name"] = "Flaps : Abajo<>Centro",
+			["name"] = "Flaps: Abajo<>Centro",
 		},
 		["d1050pnilu1050cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -207,7 +210,7 @@ local diff = {
 					["key"] = "JOY_BTN68",
 				},
 			},
-			["name"] = "CMSP - MODO STBY",
+			["name"] = "CMSP - Modo STBY",
 		},
 		["d1344pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -232,6 +235,38 @@ local diff = {
 				},
 			},
 			["name"] = "CMSP - Modo AUTO",
+		},
+		["d1356pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Luces de posición - FLASH",
+		},
+		["d1357pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "Luces de posición - OFF",
+		},
+		["d1358pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "Luces de posición - STEADY",
+		},
+		["d1366pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN59",
+				},
+			},
+			["name"] = "Interruptor de luces de advertencia",
 		},
 		["d1374pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -345,13 +380,29 @@ local diff = {
 			},
 			["name"] = "Interruptor IFFCC a TEST",
 		},
-		["d1549pnilunilcdnilvdnilvpnilvunil"] = {
+		["d1396pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN52",
 				},
 			},
-			["name"] = "Botón de desbloqueo de la palanca de eyección de la cúpula",
+			["name"] = "Luces de aterrizaje - On",
+		},
+		["d1397pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "Luces de Aterrizaje/Rodaje - Off",
+		},
+		["d1398pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "Luces de rodaje - On",
 		},
 		["d1560pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -361,6 +412,14 @@ local diff = {
 			},
 			["name"] = "Ventana de rearme y repostaje",
 		},
+		["d175pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN61",
+				},
+			},
+			["name"] = "Luces de navegación",
+		},
 		["d179pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -369,10 +428,18 @@ local diff = {
 			},
 			["name"] = "Menú de comunicaciones",
 		},
+		["d3010pnilu3011cd49vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN60",
+				},
+			},
+			["name"] = "Interruptor de las luces anticolisión",
+		},
 		["d311pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN37",
+					["key"] = "JOY_BTN36",
 				},
 			},
 			["name"] = "Puesta en marcha motor izquierdo",
@@ -380,7 +447,7 @@ local diff = {
 		["d312pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN38",
+					["key"] = "JOY_BTN39",
 				},
 			},
 			["name"] = "Puesta en marcha motor derecho",
@@ -396,7 +463,7 @@ local diff = {
 		["d314pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN36",
+					["key"] = "JOY_BTN38",
 				},
 			},
 			["name"] = "Apagado motor derecho",
@@ -431,7 +498,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Alternar gafas",
+			["name"] = "Gafas de visión nocturna",
 		},
 		["d539pnilu543cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -474,7 +541,7 @@ local diff = {
 			},
 		},
 		["d562pnilu606cdnilvdnilvpnilvunil"] = {
-			["name"] = "HOTAS - Botón de dirección de la rueda de morro",
+			["name"] = "HOTAS - Botón de dirección de la rueda de morro NWS",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
@@ -521,21 +588,29 @@ local diff = {
 			},
 			["name"] = "HOTAS - Interruptor China Hat atrás",
 		},
-		["d568pnilu570cdnilvdnilvpnilvunil"] = {
+		["d568pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "HOTAS - Interruptor Pinky : Adelante<>Centro",
+			["name"] = "HOTAS - Interruptor Pinky adelante",
 		},
-		["d569pnilu570cdnilvdnilvpnilvunil"] = {
+		["d569pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "HOTAS - Interruptor Pinky : Atrás<>Centro",
+			["name"] = "HOTAS - Interruptor Pinky atrás",
+		},
+		["d570pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "HOTAS - Interruptor Pinky centrado",
 		},
 		["d571pnilu1557cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -561,6 +636,14 @@ local diff = {
 			},
 			["name"] = "HOTAS - Interruptor del aerofreno atrás",
 		},
+		["d83pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Eyección",
+		},
 		["d957pnilu958cdnilvdnilvpnilvunil"] = {
 			["name"] = "Palanca de control en modo de control de compensación",
 			["removed"] = {
@@ -568,6 +651,22 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
+		},
+		["dnilp1359unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN62",
+				},
+			},
+			["name"] = "Luces de formación - Reducir intensidad",
+		},
+		["dnilp1360unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN63",
+				},
+			},
+			["name"] = "Luces de formación - Aumentar intensidad",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "Vista arriba a la derecha lentamente",
